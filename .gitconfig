@@ -5,6 +5,6 @@
 	co = checkout
 	b = branch
 	st = status
-  gr = grep --line-number
+	gr = grep --line-number
 [color]
 	ui = true
