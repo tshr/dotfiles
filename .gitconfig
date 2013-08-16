@@ -1,10 +1,10 @@
 [user]
-	name = tshr
+  name = tshr
 [alias]
-	lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-	co = checkout
-	b = branch
-	st = status
-	gr = grep --line-number
+  lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  co = checkout
+  b = branch
+  st = status
+  gr = grep --line-number
 [color]
-	ui = true
+  ui = true
