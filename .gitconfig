@@ -5,6 +5,7 @@
   co = checkout
   b = branch
   st = status
-  gr = grep --line-number
+  ps = push origin
+  pu = pull origin
 [color]
   ui = true
