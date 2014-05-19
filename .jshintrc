@@ -1,4 +1,5 @@
 {
   "laxbreak": true,
-  "boss": true
+  "boss": true,
+  "expr": true
 }
