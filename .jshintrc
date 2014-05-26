@@ -1,5 +1,6 @@
 {
   "laxbreak": true,
   "boss": true,
-  "expr": true
+  "expr": true,
+  "loopfunc": true
 }
