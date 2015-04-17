@@ -5,7 +5,7 @@
   co = checkout
   b = branch
   st = status
-  ps = push origin
-  pu = pull origin
+  po = push origin
+  pl = pull origin
 [color]
   ui = true
