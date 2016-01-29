@@ -6,13 +6,8 @@
   co  = checkout
   b   = branch
   st  = status
-  s   = stash
-  sp  = stash pop
-  cm  = commit -m
+  c  = commit
   a   = add -p
   poh = push origin HEAD
-  d   = diff
 [color]
   ui = true
-[core]
-  excludesfile = ~/.gitignore
