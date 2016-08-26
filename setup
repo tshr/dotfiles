@@ -1,2 +1,2 @@
 #!/bin/sh
-cp .gemrc .gitconfig .inputrc .vimrc ~
+cp .bash_profile .gemrc .gitconfig .inputrc .vimrc ~
