@@ -1,2 +1,2 @@
 #!/bin/sh
-cp coffeelint.json .gemrc .gitconfig .jshintrc .vimrc .inputrc ~
+cp .gemrc .gitconfig .inputrc .vimrc ~

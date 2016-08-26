@@ -1,13 +1,15 @@
 [user]
-  name = tshr
+  name  = tshr
   email = toshiro.sugihara@gmail.com
 [alias]
   lg  = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
   co  = checkout
   b   = branch
-  st  = status
-  c  = commit
+  st  = status -s
+  c   = commit
   a   = add -p
   poh = push origin HEAD
 [color]
   ui = true
+[core]
+  editor = /usr/bin/vim
