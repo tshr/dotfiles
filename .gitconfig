@@ -8,6 +8,7 @@
   st  = status -s
   c   = commit
   a   = add -p
+  p   = pull
   poh = push origin HEAD
 [color]
   ui = true
